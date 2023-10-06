@@ -1,0 +1,550 @@
+1696615554881	geckodriver	INFO	Listening on 127.0.0.1:65304
+1696615558122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofileoQjPpF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696615558563	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696615558643	Marionette	INFO	Listening on port 65317
+WebDriver BiDi listening on ws://127.0.0.1:65305
+Read port: 65317
+1696615558854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65305/devtools/browser/d959403f-dffa-4cf7-b54b-064990f64970
+JavaScript warning: https://www.amazon.ca/, line 2009: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 296: Script terminated by timeout at:
+D/<@https://www.amazon.ca/:296:670
+
+1696615579344	Marionette	INFO	Stopped listening on port 65317
+Dynamically enable window occlusion 1
+1696615641646	geckodriver	INFO	Listening on 127.0.0.1:65476
+1696615644874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofilevzkvHz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696615645465	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696615645554	Marionette	INFO	Listening on port 65484
+WebDriver BiDi listening on ws://127.0.0.1:65477
+Read port: 65484
+1696615645828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65477/devtools/browser/85304d4e-c51d-4ed1-9c48-f60accdbf147
+JavaScript warning: https://www.amazon.ca/, line 2009: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 296: Script terminated by timeout at:
+D/<@https://www.amazon.ca/:296:670
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696616284437	Marionette	INFO	Stopped listening on port 65484
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+avaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 296: Script terminated by timeout at:
+D/<@https://www.amazon.ca/:296:670
+
+1696615765535	Marionette	INFO	Stopped listening on port 49269
+Dynamically enable window occlusion 1
+1696615799089	geckodriver	INFO	Listening on 127.0.0.1:49679
+1696615802349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofileDUGXvk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696615802833	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696615802926	Marionette	INFO	Listening on port 49695
+WebDriver BiDi listening on ws://127.0.0.1:49682
+Read port: 49695
+1696615803170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49682/devtools/browser/4cfc7c86-72b2-44df-bcf1-4aef8bf49885
+JavaScript warning: https://www.amazon.ca/, line 2009: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 296: Script terminated by timeout at:
+D/<@https://www.amazon.ca/:296:670
+
+1696615815261	Marionette	INFO	Stopped listening on port 49695
+Dynamically enable window occlusion 1
+1696615835849	geckodriver	INFO	Listening on 127.0.0.1:49840
+1696615839365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofile5n2TeL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696615839751	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696615839819	Marionette	INFO	Listening on port 49848
+WebDriver BiDi listening on ws://127.0.0.1:49841
+Read port: 49848
+1696615840016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49841/devtools/browser/fca84c5a-1beb-4c4b-a7e3-efc8219f3694
+JavaScript warning: https://www.amazon.ca/, line 1996: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 296: Script terminated by timeout at:
+D/<@https://www.amazon.ca/:296:670
+
+1696616147821	Marionette	INFO	Stopped listening on port 49848
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1696616265607	geckodriver	INFO	Listening on 127.0.0.1:50882
+1696616268883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofilec5xalf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616269484	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616269606	Marionette	INFO	Listening on port 50890
+WebDriver BiDi listening on ws://127.0.0.1:50883
+Read port: 50890
+1696616269924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50883/devtools/browser/cf7ab26d-1486-419b-bcee-2b1021c82035
+JavaScript warning: https://www.amazon.ca/, line 1976: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+1696616274212	Marionette	INFO	Stopped listening on port 50890
+JavaScript warning: https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51jfxuELZ4L.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01xb2VGIlyL.js_.js?AUIClients/AmazonUI, line 16: Script terminated by timeout at:
+d</delay/<@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51jfxuELZ4L.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01xb2VGIlyL.js_.js?AUIClients/AmazonUI:16:200
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1696616292792	geckodriver	INFO	Listening on 127.0.0.1:51056
+1696616296037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofileIWvGqA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616296429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616296492	Marionette	INFO	Listening on port 51064
+WebDriver BiDi listening on ws://127.0.0.1:51057
+Read port: 51064
+1696616296680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51057/devtools/browser/4449ca42-7aed-4371-8e0b-fb7327089e79
+JavaScript warning: https://www.amazon.ca/, line 2000: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+1696616302076	Marionette	INFO	Stopped listening on port 51064
+JavaScript warning: https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery, line 147: Script terminated by timeout at:
+domManip@https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery:147:126
+append@https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery:141:512
+g@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51jfxuELZ4L.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01xb2VGIlyL.js_.js?AUIClients/AmazonUI:473:483
+update@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51jfxuELZ4L.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01xb2VGIlyL.js_.js?AUIClients/AmazonUI:475:408
+m<@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51jfxuELZ4L.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01xb2VGIlyL.js_.js?AUIClients/AmazonUI:478:29
+b@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51jfxuELZ4L.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01xb2VGIlyL.js_.js?AUIClients/AmazonUI:477:403
+guardTime/<@https://www.amazon.ca/:101:360
+d</delay/f<@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51jfxuELZ4L.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01xb2VGIlyL.js_.js?AUIClients/AmazonUI:16:105
+X/</<@https://www.amazon.ca/:96:487
+d</delay/<@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51jfxuELZ4L.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01xb2VGIlyL.js_.js?AUIClients/AmazonUI:16:209
+
+Dynamically enable window occlusion 1
+1696616390453	geckodriver	INFO	Listening on 127.0.0.1:51134
+1696616393704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofileb8XqFi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616394180	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616394244	Marionette	INFO	Listening on port 51143
+WebDriver BiDi listening on ws://127.0.0.1:51135
+Read port: 51143
+1696616394381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51135/devtools/browser/f55fad6e-1eaf-4294-a5d6-33848ab132f8
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|510-DqpHv3L.js,11HZwqTrxmL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014VApivrFL.js,21NNXfMitSL.js,11GXfd3+z+L.js,513Ys2IkKiL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51A3Le4wx8L.js,31R+Yg2le+L.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,016o2mNzRuL.js_.js?AUIClients/AmazonUI&ooutlTyX#page_type-Gateway, line 162: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|510-DqpHv3L.js,11HZwqTrxmL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014VApivrFL.js,21NNXfMitSL.js,11GXfd3+z+L.js,513Ys2IkKiL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51A3Le4wx8L.js,31R+Yg2le+L.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,016o2mNzRuL.js_.js?AUIClients/AmazonUI&ooutlTyX#page_type-Gateway, line 162: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|510-DqpHv3L.js,11HZwqTrxmL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014VApivrFL.js,21NNXfMitSL.js,11GXfd3+z+L.js,513Ys2IkKiL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51A3Le4wx8L.js,31R+Yg2le+L.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,016o2mNzRuL.js_.js?AUIClients/AmazonUI&ooutlTyX#page_type-Gateway, line 162: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|510-DqpHv3L.js,11HZwqTrxmL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014VApivrFL.js,21NNXfMitSL.js,11GXfd3+z+L.js,513Ys2IkKiL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51A3Le4wx8L.js,31R+Yg2le+L.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,016o2mNzRuL.js_.js?AUIClients/AmazonUI&ooutlTyX#page_type-Gateway, line 162: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript warning: https://www.amazon.ca/, line 240: Script terminated by timeout at:
+t.emit@https://www.amazon.ca/:240:1220
+l@https://www.amazon.ca/:240:3055
+
+1696616418578	Marionette	INFO	Stopped listening on port 51143
+Dynamically enable window occlusion 1
+1696616445682	geckodriver	INFO	Listening on 127.0.0.1:51207
+1696616448964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51208" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofilenYeLjW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616449464	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616449528	Marionette	INFO	Listening on port 51215
+WebDriver BiDi listening on ws://127.0.0.1:51208
+Read port: 51215
+1696616449727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51208/devtools/browser/76ed9bb8-35f0-452a-920b-80850713d12a
+JavaScript warning: https://www.amazon.ca/, line 2000: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=laptop, line 15663: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript warning: https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=laptop, line 372: Script terminated by timeout at:
+D/<@https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=laptop:372:670
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696616750372	Marionette	INFO	Stopped listening on port 51215
+Dynamically enable window occlusion 1
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=laptop, line 364: Script terminated by timeout at:
+D/<@https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=laptop:364:670
+
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:573:17\n"
+1696616634706	Marionette	INFO	Stopped listening on port 51502
+Dynamically enable window occlusion 1
+1696616638675	geckodriver	INFO	Listening on 127.0.0.1:51578
+1696616641954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofilenPMmHs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616642377	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616642471	Marionette	INFO	Listening on port 51586
+WebDriver BiDi listening on ws://127.0.0.1:51579
+Read port: 51586
+1696616642718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51579/devtools/browser/09aecc31-6fc1-4b7e-859a-d88f82ad76a5
+JavaScript warning: https://www.amazon.ca/, line 2000: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript warning: https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=laptop, line 14443: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/11do45JzEaL._RC|31YYsFFQrXL.js,31Iq4x9+ecL.js,01BPbuoKVCL.js,315+GIIhL0L.js,41P1BLAC65L.js,31+Y3z8AhgL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,117W8bg6tgL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11AI4m98wJL.js,01lGmx6mYIL.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,21rk3iWU8SL.js,01FA0ZefFJL.js,41xGLhYpi3L.js_.js?AUIClients/SearchAssets&nYJ2uSUH#713159-T1, line 34: Script terminated by timeout at:
+B/<@https://images-na.ssl-images-amazon.com/images/I/11do45JzEaL._RC|31YYsFFQrXL.js,31Iq4x9+ecL.js,01BPbuoKVCL.js,315+GIIhL0L.js,41P1BLAC65L.js,31+Y3z8AhgL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,117W8bg6tgL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11AI4m98wJL.js,01lGmx6mYIL.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,21rk3iWU8SL.js,01FA0ZefFJL.js,41xGLhYpi3L.js_.js?AUIClients/SearchAssets&nYJ2uSUH#713159-T1:34:182
+eachFrame@https://images-na.ssl-images-amazon.com/images/I/11do45JzEaL._RC|31YYsFFQrXL.js,31Iq4x9+ecL.js,01BPbuoKVCL.js,315+GIIhL0L.js,41P1BLAC65L.js,31+Y3z8AhgL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,117W8bg6tgL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11AI4m98wJL.js,01lGmx6mYIL.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,21rk3iWU8SL.js,01FA0ZefFJL.js,41xGLhYpi3L.js_.js?AUIClients/SearchAssets&nYJ2uSUH#713159-T1:44:109
+B@https://images-na.ssl-images-amazon.com/images/I/11do45JzEaL._RC|31YYsFFQrXL.js,31Iq4x9+ecL.js,01BPbuoKVCL.js,315+GIIhL0L.js,41P1BLAC65L.js,31+Y3z8AhgL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,117W8bg6tgL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11AI4m98wJL.js,01lGmx6mYIL.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,21rk3iWU8SL.js,01FA0ZefFJL.js,41xGLhYpi3L.js_.js?AUIClients/SearchAssets&nYJ2uSUH#713159-T1:34:157
+@https://images-na.ssl-images-amazon.com/images/I/11do45JzEaL._RC|31YYsFFQrXL.js,31Iq4x9+ecL.js,01BPbuoKVCL.js,315+GIIhL0L.js,41P1BLAC65L.js,31+Y3z8AhgL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,117W8bg6tgL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11AI4m98wJL.js,01lGmx6mYIL.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,21rk3iWU8SL.js,01FA0ZefFJL.js,41xGLhYpi3L.js_.js?AUIClients/SearchAssets&nYJ2uSUH#713159-T1:48:439
+
+1696616737731	Marionette	INFO	Stopped listening on port 51586
+Dynamically enable window occlusion 1
+1696616807460	geckodriver	INFO	Listening on 127.0.0.1:51870
+1696616810696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofileFaliQH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616811466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616811534	Marionette	INFO	Listening on port 51878
+WebDriver BiDi listening on ws://127.0.0.1:51871
+Read port: 51878
+1696616811724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51871/devtools/browser/413c00a0-96aa-404f-9c54-2caa665c8b92
+JavaScript warning: https://www.amazon.ca/, line 2002: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript warning: https://www.amazon.ca/s?k=laptop&ref=nb_sb_noss, line 14152: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696616861597	geckodriver	INFO	Listening on 127.0.0.1:52030
+1696616864860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofileqRrEoN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616865475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616865549	Marionette	INFO	Listening on port 52038
+WebDriver BiDi listening on ws://127.0.0.1:52031
+Read port: 52038
+1696616865786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52031/devtools/browser/b457e8ce-2ce2-4baf-8fac-a8ac4506119b
+JavaScript warning: https://www.amazon.ca/, line 2009: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://www.amazon.ca/s?k=laptop&ref=nb_sb_noss, line 16165: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696616898563	geckodriver	INFO	Listening on 127.0.0.1:52164
+1696616901823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofileH4DTp1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616902220	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616902286	Marionette	INFO	Listening on port 52173
+WebDriver BiDi listening on ws://127.0.0.1:52165
+Read port: 52173
+1696616902490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52165/devtools/browser/b0f04ace-2dde-4a62-9565-74ae1edd6c30
+JavaScript warning: https://www.amazon.ca/, line 1996: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+1696616905790	Marionette	INFO	Stopped listening on port 52173
+Dynamically enable window occlusion 1
+1696616922556	geckodriver	INFO	Listening on 127.0.0.1:52228
+1696616925851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofile7OhaLL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616926396	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616926501	Marionette	INFO	Listening on port 52236
+Read port: 52236
+WebDriver BiDi listening on ws://127.0.0.1:52229
+1696616926591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52229/devtools/browser/a492845d-42c7-4918-b940-23723b3b38b5
+JavaScript warning: https://www.amazon.ca/, line 2000: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+1696616930676	Marionette	INFO	Stopped listening on port 52236
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Dynamically enable window occlusion 1
+1696616974459	geckodriver	INFO	Listening on 127.0.0.1:52308
+1696616977709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofileJB9ZQI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696616978186	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696616978251	Marionette	INFO	Listening on port 52317
+WebDriver BiDi listening on ws://127.0.0.1:52309
+Read port: 52317
+1696616978312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52309/devtools/browser/58716aa9-ef0b-4ebf-9501-ba12cbeed17f
+JavaScript warning: https://www.amazon.ca/, line 1978: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.ca/s?k=laptop&crid=92L6QFV5R1DW&sprefix=%2Caps%2C159&ref=nb_sb_noss_2, line 14825: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696618566005	Marionette	INFO	Stopped listening on port 52317
+Dynamically enable window occlusion 1
+rn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696617130194	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696617130286	Marionette	INFO	Listening on port 52708
+WebDriver BiDi listening on ws://127.0.0.1:52699
+Read port: 52708
+1696617130368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52699/devtools/browser/bd99dab4-8c92-4725-b0b9-e6143d7810f9
+JavaScript warning: https://www.amazon.ca/, line 2009: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript warning: https://www.amazon.ca/s?k=laptop&ref=nb_sb_noss, line 14322: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=laptop, line 364: Script terminated by timeout at:
+D/<@https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=laptop:364:670
+
+1696617162035	Marionette	INFO	Stopped listening on port 52708
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1696617166517	geckodriver	INFO	Listening on 127.0.0.1:52855
+1696617169745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52856" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofilerxFtaO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696617170189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696617170254	Marionette	INFO	Listening on port 52863
+Read port: 52863
+WebDriver BiDi listening on ws://127.0.0.1:52856
+1696617170321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52856/devtools/browser/52b292c1-4f39-4074-87cf-1400a7b7d127
+JavaScript warning: https://www.amazon.ca/, line 2015: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+1696617175285	Marionette	INFO	Stopped listening on port 52863
+JavaScript warning: https://www.amazon.ca/s?k=laptop&ref=nb_sb_noss, line 15330: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/11do45JzEaL._RC|31YYsFFQrXL.js,31Iq4x9+ecL.js,01BPbuoKVCL.js,31CH+S3HzJL.js,41P1BLAC65L.js,31+Y3z8AhgL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,117W8bg6tgL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11AI4m98wJL.js,01lGmx6mYIL.js,015CwW0puPL.js,21jeZDicdtL.js,01Xsdw3YkWL.js,21dMhWokf7L.js,01X+UeeJIKL.js,21rk3iWU8SL.js,01FA0ZefFJL.js,41xGLhYpi3L.js_.js?AUIClients/SearchAssets&T8qQcJ9m#697556-T1.697561-T1, line 31: Script terminated by timeout at:
+p@https://images-na.ssl-images-amazon.com/images/I/11do45JzEaL._RC|31YYsFFQrXL.js,31Iq4x9+ecL.js,01BPbuoKVCL.js,31CH+S3HzJL.js,41P1BLAC65L.js,31+Y3z8AhgL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,117W8bg6tgL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11AI4m98wJL.js,01lGmx6mYIL.js,015CwW0puPL.js,21jeZDicdtL.js,01Xsdw3YkWL.js,21dMhWokf7L.js,01X+UeeJIKL.js,21rk3iWU8SL.js,01FA0ZefFJL.js,41xGLhYpi3L.js_.js?AUIClients/SearchAssets&T8qQcJ9m#697556-T1.697561-T1:31:347
+@https://images-na.ssl-images-amazon.com/images/I/11do45JzEaL._RC|31YYsFFQrXL.js,31Iq4x9+ecL.js,01BPbuoKVCL.js,31CH+S3HzJL.js,41P1BLAC65L.js,31+Y3z8AhgL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,117W8bg6tgL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11AI4m98wJL.js,01lGmx6mYIL.js,015CwW0puPL.js,21jeZDicdtL.js,01Xsdw3YkWL.js,21dMhWokf7L.js,01X+UeeJIKL.js,21rk3iWU8SL.js,01FA0ZefFJL.js,41xGLhYpi3L.js_.js?AUIClients/SearchAssets&T8qQcJ9m#697556-T1.697561-T1:48:325
+
+Dynamically enable window occlusion 1
+1696617206829	geckodriver	INFO	Listening on 127.0.0.1:52939
+1696617210059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofile6fTCE2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696617210462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696617210533	Marionette	INFO	Listening on port 52947
+WebDriver BiDi listening on ws://127.0.0.1:52940
+Read port: 52947
+1696617210749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52940/devtools/browser/20fe755b-8db2-4975-b16f-d878ada4bb6c
+JavaScript warning: https://www.amazon.ca/, line 2000: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript warning: https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Sony+Playstation+5, line 5907: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696617218834	Marionette	INFO	Stopped listening on port 52947
+JavaScript warning: https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Sony+Playstation+5, line 5908: Script terminated by timeout at:
+U@https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Sony+Playstation+5:5908:1138
+
+JavaScript warning: https://m.media-amazon.com/images/I/41rQMJCpkQL.js, line 1: Script terminated by timeout at:
+588/value/<@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11514
+value@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11515
+value@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:10964
+o@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11646
+e@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11797
+
+Dynamically enable window occlusion 1
+1696617418399	geckodriver	INFO	Listening on 127.0.0.1:53042
+1696617421650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jinin\\AppData\\Local\\Temp\\rust_mozprofileltSazu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696617422048	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696617422120	Marionette	INFO	Listening on port 53050
+WebDriver BiDi listening on ws://127.0.0.1:53043
+Read port: 53050
+1696617422322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53043/devtools/browser/312f3fd9-d1a4-4687-80c7-dca597773055
+JavaScript warning: https://www.amazon.ca/, line 2024: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.ca."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://m.media-amazon.com/images/I/61CL3cY26nL.js, line 2: Script terminated by timeout at:
+e.g<@https://m.media-amazon.com/images/I/61CL3cY26nL.js:2:88540
+@https://m.media-amazon.com/images/I/61CL3cY26nL.js:2:88541
+@https://m.media-amazon.com/images/I/61CL3cY26nL.js:2:93074
+
+JavaScript warning: https://www.amazon.ca/s?k=Sony+Playstation+5&ref=nb_sb_noss, line 5716: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696617428768	Marionette	INFO	Stopped listening on port 53050
+JavaScript warning: https://m.media-amazon.com/images/I/911xJUcMg-L.js, line 17: Script terminated by timeout at:
+d@https://m.media-amazon.com/images/I/911xJUcMg-L.js:17:84030
+4059/t.usePositionTracking/</t<@https://m.media-amazon.com/images/I/911xJUcMg-L.js:17:84205
+
+Dynamically enable window occlusion 1
